@@ -1,0 +1,21 @@
+WinMetadata\Windows.winmd
+ApplicationInsights.config
+Assets\404.png
+Assets\LockScreenLogo.scale-200.png
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\weather-types\cloudy.png
+Assets\weather-types\rain sleet.png
+Assets\weather-types\rain snow.png
+Assets\weather-types\rain.png
+Assets\weather-types\snow.png
+Assets\weather-types\sunny.png
+Assets\weather-types\tornado.png
+Assets\weather-types\tropical storm.png
+Assets\weather-types\windy.png
+Assets\Wide310x150Logo.scale-200.png
+Winther.xr.xml
+Properties\Default.rd.xml
